@@ -13,7 +13,10 @@ console.log (students)
 const geografic = {
     name: "rezi",
     lastnam: "kapanadze",
-    adress: "barcelona",
+    adress: ["barcelona", "barbara45"],
+    Age: 29,
     phoneNumber: [598996116],
 }
 console.log (geografic)
+
+console.log (`My name  ${geografic.name}, my age is ${geografic.Age}, My adress is ${geografic. adress[0]}`)
