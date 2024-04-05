@@ -10,3 +10,10 @@ const students = [
 ];
 console.log (students)
 
+const geografic = {
+    name: "rezi",
+    lastnam: "kapanadze",
+    adress: "barcelona",
+    phoneNumber: [598996116],
+}
+console.log (geografic)
